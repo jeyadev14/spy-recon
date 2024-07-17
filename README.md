@@ -1,5 +1,6 @@
 # About Thupparivalan 1.0
 Information Gathering tool for a Website or IP address using Open Source Tools - Proudly Designed by @RahulTheWhiteHat
+
 Thupparivalan can work in any linux based operating systems if they have and support Python 2, Python 3, and Rubyn and all the cmd line tools mentioned below.
 
 # Features
@@ -74,12 +75,12 @@ After that, Run Command Prompt and enter these commands:
 
 # Contact D3v @rahulthewhitehat
 
-Website: <a href="https://rahulthewhitehat.github.io" target="_blank"><span style="color: blue">Portfolio</span></a>
+Website: <a href="https://rahulthewhitehat.github.io" target="_blank"><span style="color: blue"></span>Portfolio</a>
 
-Twitter: <a href="https://linkedin.com/rahulthewhitehat" target="_blank"><span style="color: blue">LinkedIn/span></a>
+Twitter: <a href="https://linkedin.com/rahulthewhitehat" target="_blank"><span style="color: blue"></span>LinkedIn</a>
 
-Facebook: <a href="https://github.com/rahulthewhitehat target="_blank"><span style="color: blue">@GitHub</span></a>
+GitHub: <a href="https://github.com/rahulthewhitehat" target="_blank"><span style="color: blue">@GitHub</span>GitHub</a>
 
-Google Plus: <a href="https://instagram.com/rahulthewhitehat" target="_blank"><span style="color: blue">Instagram/span></a>
+Instagram <a href="https://instagram.com/rahulthewhitehat" target="_blank"><span style="color: blue"></span>Instagram</a>
 
 
