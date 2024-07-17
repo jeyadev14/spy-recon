@@ -77,9 +77,9 @@ After that, Run Command Prompt and enter these commands:
 
 Website: <a href="https://rahulthewhitehat.github.io" target="_blank"><span style="color: blue"></span>Portfolio</a>
 
-Twitter: <a href="https://linkedin.com/rahulthewhitehat" target="_blank"><span style="color: blue"></span>LinkedIn</a>
+LinkedIn: <a href="https://linkedin.com/rahulthewhitehat" target="_blank"><span style="color: blue"></span>LinkedIn</a>
 
-GitHub: <a href="https://github.com/rahulthewhitehat" target="_blank"><span style="color: blue">@GitHub</span>GitHub</a>
+GitHub: <a href="https://github.com/rahulthewhitehat" target="_blank"><span style="color: blue"></span>GitHub</a>
 
 Instagram <a href="https://instagram.com/rahulthewhitehat" target="_blank"><span style="color: blue"></span>Instagram</a>
 
