@@ -1,0 +1,7 @@
+socket
+os
+requests.
+platform
+webbrowser
+tempfile
+urllib.parse
