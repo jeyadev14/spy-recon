@@ -2,7 +2,7 @@
 Information Gathering tool for a Website or IP address using Open Source Tools - Proudly Designed by @RahulTheWhiteHat
 
 Thupparivalan can work in any linux based operating systems if they have and support Python 2, Python 3, and Rubyn and all the cmd line tools mentioned below.
-<a href="https://youtu.be/7InI9vDDsgM">Youtube Live Demo Link/>
+<a href="https://youtu.be/7InI9vDDsgM" target="_blank">Youtube Live Demo Link
 
 # Features
  * Google Dork Help
